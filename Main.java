@@ -14,6 +14,14 @@ public class Main {
       String player = input.nextLine();
       System.out.println("welcome, " + player);
 
+      System.out.println("Enter a verb: ");
+      String verb1 = "walking";
+      String noun1 = "school";
+      String adj1 = "scary";
+      String noun2 = "monster";
+      String verb2 = "jumping";
+      String emotion1 = ""
+
 
 
 
